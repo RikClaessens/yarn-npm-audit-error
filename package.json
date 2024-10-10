@@ -1,0 +1,7 @@
+{
+  "name": "yarn-npm-audit-error",
+  "dependencies": {
+    "@backstage/plugin-scaffolder-backend-module-bitbucket": "^0.3.0"
+  },
+  "packageManager": "yarn@4.5.0"
+}
